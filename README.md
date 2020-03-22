@@ -20,6 +20,7 @@ git clone https://github.com/samimifar/warp-plus.git
 Finally, Run the script:
 
 ```shell
+cd warp-plus/
 python3 warp-plus.py
 ```
 
