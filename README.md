@@ -6,6 +6,7 @@ a Python script to get free WARP+ data
 To use this script, make sure have `python` package installed on your device.
 You can use this script on your PC, VPS, or your android smart phone(using __Termux__).
 This script uses `requests` package, so you have to install it first:
+
 For __Termux__ and __Ubuntu__ :
 
 ```shell
