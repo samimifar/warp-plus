@@ -10,7 +10,7 @@ This script uses `requests` package, so you have to install it first:
 For __Termux__ and __Ubuntu__ :
 
 ```shell
-apt install python git && pip install requests
+apt update && apt install python git && pip install requests
 ```
 
 Now clone the git on your device:
