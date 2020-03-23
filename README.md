@@ -29,4 +29,4 @@ notice: You can find your user-id in the `1.1.1.1 App` settings in the Diagnosti
 If there wasn't `user-id`, first enable WARP mode and then try again.
 
 
-[![Run on Repl.it](https://repl.it/badge/github/samimifar/warp-plus)](https://repl.it/github/samimifar/warp-plus)
+[![Run on Repl.it](https://warp-plus.samimifar.repl.run)](https://warp-plus.samimifar.repl.run)
