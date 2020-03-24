@@ -12,7 +12,7 @@ For __Termux__ :
 ```shell
 pkg install python git && pip install requests
 ```
-##if you want to use this script on your PC or VPS, install `python` and `git` package using your package manager and then run `pip install requests`
+## if you want to use this script on your PC or VPS, install `python` and `git` package using your package manager and then run `pip install requests`
 
 Now clone the git on your device:
 
