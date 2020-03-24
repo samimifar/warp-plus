@@ -7,11 +7,12 @@ To use this script, make sure have `python` package installed on your device.
 You can use this script on your PC, VPS, or your android smart phone(using __Termux__).
 This script uses `requests` package, so you have to install it first:
 
-For __Termux__ and __Ubuntu__ :
+For __Termux__ :
 
 ```shell
-apt update && apt install python git && pip install requests
+pkg install python git && pip install requests
 ```
+##if you want to use this script on your PC or VPS, install `python` and `git` package using your package manager and then run `pip install requests`
 
 Now clone the git on your device:
 
